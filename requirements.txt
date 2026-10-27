@@ -1,0 +1,7 @@
+ultralytics>=8.3.0     # YOLOv8 / YOLO11 + ByteTrack / BoT-SORT
+lapx                   # needed by the ByteTrack tracker
+opencv-python
+numpy
+pillow
+plyer                  # optional: native OS notifications
+# firebase-admin       # optional: Firestore + Storage sync (see README)
